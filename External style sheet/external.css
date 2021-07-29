@@ -1,0 +1,21 @@
+body {
+	background-color: yellow;
+}	
+
+h1 {
+	color: navy;
+}
+
+.content {
+	font-size: 20px;
+	color: red;
+}	
+
+.learning {
+	background-color: pink;
+}
+
+#prac {
+	background-color:black;
+	color: yellow;
+}
