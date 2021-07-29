@@ -1,0 +1,44 @@
+                                                  Step by step HTML:-
+1) Learn basic tags in HTML
+2) Read and understand HTML tutorial from 'w3schools.com/html' upto HTML CSS.
+3) Create a html program with use of below tags:
+   -> Title tag
+   -> Heading tags (h1, h2, h3, h4, h5, h6)
+   -> Paragraph tag
+   -> Add Link
+   -> Insert image
+4) Create a table in the same program with having 5 rows: Emp_Id, Employee_Name, Department, Salary, Reported_to
+5) Display the data by using different list tags.
+6) Insert css in 3 ways:-
+    : Inline, 
+    : Internal and 
+    : External
+7) Make use of html class and id and display different background-color, text-color, etc.
+8) Learn and understand html from HTML CSS to HTML Iframes from w3school or any website.
+9) Learn and understand about:-
+    * Html file paths
+    * Html JavaScript
+    * Head
+    * Layouts
+    * Responsive
+    * Computercode
+    * Semantics
+    * Style Guide
+    * Entities
+    * Symbols
+    * Emojis
+    * Charset
+    * URL Encode
+    * Meta Tags
+    * Html links:-
+       -- Text Links
+       -- Image Links
+       -- Email Links
+    * Frames
+    * Iframes
+    * Blocks
+    * Backgrounds
+    * Colors
+    * Forms
+   Try to implement all these concepts in your program.
+10) Also, learn the difference between HTML and XHTML.
