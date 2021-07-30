@@ -9,7 +9,7 @@ body {
 				
        }
 	#example1 {
-             background-image: url(file:///F:/..Workspace/HTML_Basics/External%20style%20sheet/images/wood_3.webp);
+             background-image: url(images/wood_3.webp);
              max-width: 100%;
              height: auto;
              background-position: center;
