@@ -1,0 +1,21 @@
+body {
+            background-color:#DCDCDC;    
+            text-align: left;
+				
+       }
+	   div {
+   background-image: url(file:///F:/..Workspace/HTML_Basics/External%20style%20sheet/images/wood-3.webp);
+   height: 500px;
+   width: 80%;
+  background-position: center;
+	   }
+  h1 {
+	color: white;
+	text-align:center;
+	top: 40%;
+}
+
+	   h3 {
+	text-align=justify;
+  color: white;
+}
