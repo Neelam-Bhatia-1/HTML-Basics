@@ -1,21 +1,29 @@
 body {
+ background-color:#DCDCDC; 
+ }
+ .heading{
             background-color:#DCDCDC;    
-            text-align: left;
+            text-align: top-left;
+			font-size:50px; 
+			color: #000000; 
 				
        }
-	   div {
-   background-image: url(file:///F:/..Workspace/HTML_Basics/External%20style%20sheet/images/wood-3.webp);
-   height: 500px;
-   width: 80%;
-  background-position: center;
-	   }
-  h1 {
-	color: white;
-	text-align:center;
-	top: 40%;
-}
-
-	   h3 {
-	text-align=justify;
-  color: white;
-}
+	#example1 {
+             background-image: url(file:///F:/..Workspace/HTML_Basics/External%20style%20sheet/images/wood_3.webp);
+             max-width: 100%;
+             height: auto;
+             background-position: center;
+             font-size:20;
+             padding: 50px;
+             color: white; 
+             text-align=justify;
+             font-size:30px;
+	  }
+ .Button{
+            text-align: center;
+  
+      }
+	  .our{
+		  
+	  color:black;
+	  }
