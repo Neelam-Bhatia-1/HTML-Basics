@@ -19,7 +19,7 @@ body {
              text-align=justify;
              font-size:30px;
 	  }
- .Button{
+ #Button{
             text-align: center;
   
       }
@@ -27,3 +27,14 @@ body {
 		  
 	  color:black;
 	  }
+	  
+              img:hover {
+              transform: scaleX(-1);
+       }
+	   .font {
+               font-style: oblique;
+          }
+		  .address { 
+  display: block;
+  font-style: italic;
+} 
